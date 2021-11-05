@@ -1,0 +1,2 @@
+It is an Android app takes data about certain location's weather data from https://www.metaweather.com/api with Android Volley. 
+The data taken is weekly weather predictions of a certain location and then show it on the Android App.
